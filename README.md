@@ -4,7 +4,7 @@
 - I am twenty four years old
 - 🌎 I came from Eritrea looking for a better🌈 future.
 - 🛬I came to belgium on the 13th of December 2022.
-
+- 🥇 I speak 3 languages. English,Tigrinya and Arabic
 # Hobbies
 
 - 😁 I get exited by many things. Some of the things that interest me the most are.
