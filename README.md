@@ -33,6 +33,5 @@
   | The stock market| 37.7T | 2 |
   |Crypto Market |1.49B| 3|
   | Real Estate| 326.5T|1|
-  
-  <img src='im![forex-signals](https://user-images.githubusercontent.com/99040483/154845452-9f22b7c7-cf45-48e5-a485-02ac429f9969.jpeg)
+   <img src='im![forex-signals](https://user-images.githubusercontent.com/99040483/154845452-9f22b7c7-cf45-48e5-a485-02ac429f9969.jpeg)
 ages/trading.webp'>
