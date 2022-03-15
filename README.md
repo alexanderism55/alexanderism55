@@ -13,7 +13,7 @@
 2. **technology**🛰,
 3. **contacat sports**🥊,
 4. **video games**🎮,
-5. [**elon musk**](👨‍💻https://en.wikipedia.org/wiki/Elon_Musk)
+5. ![**elon musk**](👨‍💻https://en.wikipedia.org/wiki/Elon_Musk)
 6. **the human mind**🧠.
 
 # Favorite Books
